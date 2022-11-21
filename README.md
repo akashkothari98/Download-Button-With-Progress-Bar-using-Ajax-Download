@@ -20,7 +20,10 @@ Basic Download Button with Progress Bar Using AJAX Download.
 
 ## Demo
 
-[https://demo.akashkothari.me/download-button-with-ajax](https://demo.akashkothari.me/download-button-with-ajax)
+[https://download-button-with-ajax.akashkothari.me/](https://download-button-with-ajax.akashkothari.me/)
+
+![demo](https://download-button-with-ajax.akashkothari.me/download-button-with-ajax/downloadbutton.gif)
+
 
 ## Author
 
